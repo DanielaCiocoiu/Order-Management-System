@@ -11,7 +11,7 @@ import org.junit.Test;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 
-import com.Home.OMS.entity.Product;
+import com.home.springboot.OMS.Product;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
